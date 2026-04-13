@@ -607,6 +607,10 @@ main {
   overflow: hidden;
 }
 
+.content-card time{
+  color: var(--light-gray-70);
+  margin-bottom: 5px;
+}
 
 /**
  * #testimonials-modal
@@ -673,6 +677,7 @@ main {
   transform: scale(1);
   opacity: 1;
 }
+
 
 .modal-close-btn {
   position: absolute;
